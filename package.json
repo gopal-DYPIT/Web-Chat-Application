@@ -12,7 +12,7 @@
     "mern",
     "chat-app"
   ],
-  "author": "Piyush Agarwal",
+  "author": "Gopal Kadam",
   "license": "ISC",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
